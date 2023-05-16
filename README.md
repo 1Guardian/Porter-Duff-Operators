@@ -2,7 +2,6 @@
 implementation of the concepts employed by the porter duff operators for use on images within green screen areas
 
 ## Usage:
-User Interface for frequency selection and filtering:
 <pre>
 porter-duff.py -t imagefile -s imagefile -tm mask -sm mask -m mode
     -t : Target Image (I1)
